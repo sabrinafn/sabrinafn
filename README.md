@@ -16,5 +16,8 @@ Most of the projects here are part of the 42 curriculum.
 - GitHub: [sabrinafn](https://github.com/sabrinafn)
 - Email: [your.email@example.com]
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjBjOHFoZ2phN2FjdXQyNXlsZ3BjcjhudXF6Y3E5dWIwdHZsMDl2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)" width="100"/>
+</div>
 Thanks for stopping by!
 
