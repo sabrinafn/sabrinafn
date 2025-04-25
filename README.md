@@ -1,4 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/sabrinafn/count.svg" alt="Visitor's Count" />
-</div>
+Hi there, 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinafn)](https://github.com/anuraghazra/github-readme-stats)
