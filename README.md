@@ -12,6 +12,12 @@ Most of the projects here are part of the 42 curriculum.
 - **Cub3d**: A basic first-person view game using raycasting (similar to early 90s games like Wolfenstein 3D). It involves working with math, textures, and keyboard controls.
 <br>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinafn)](https://github.com/sabrinafn/github-readme-stats)
+<br>
+<br>
+<br>
+<br>
 📫 Let's connect:
 
 <div id="badges">
