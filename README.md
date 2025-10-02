@@ -1,9 +1,13 @@
+
 <h1 align="center">Hi there 👋 I'm Sabrina</h1>
-<h3 align="center">I'm currently studying at 42 São Paulo and learning programming.</h3>
+
+[![imggifgirl.gif](https://i.postimg.cc/MT7JRXtt/imggifgirl.gif)](https://postimg.cc/JDzFCrfB)
+
+
+<h3 align="center">I'm a student at 42 São Paulo and learning programming.</h3>
 
 <p>
-- I’m currently working on <strong>Labs by 42 São Paulo</strong><br>
-- I’m learning <strong>Typescript, Python, and Docker</strong>
+- Currently, I'm learning <strong>Typescript, Python, and Docker</strong>
 </p>
 
 <h3>Some projects I worked on:</h3>
@@ -13,11 +17,6 @@
   <li><strong>Minishell</strong>: Simple Unix shell in C handling commands, pipes, redirections, and environment variables.</li>
   <li><strong>Cub3D</strong>: First-person view game using raycasting inspired by Wolfenstein 3D, with textures, math, and keyboard controls.</li>
 </ul>
-
-
-
-
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabrina%20Fenascimento-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-fenascimento)
