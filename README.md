@@ -22,8 +22,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabrina%20Fenascimento-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrina-fenascimento)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinafn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinafn&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinafn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinafn&theme=radical" alt="Streak Stats" width="420" />
 </p>
 
 
